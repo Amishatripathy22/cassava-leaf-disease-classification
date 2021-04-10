@@ -31,8 +31,10 @@ VGG-16 + DenseNet169 | 86%
 **Step-2** Download the docker desktop from the official website of Dockers.<br>
 **Step-3** Create your docker account at https://hub.docker.com/. <br>
 **Step-4** Make sure that you have cloned the [Repository]() and open the command prompt in [Docker](https://github.com/mohit-keshwani/cassava-leaf-disease/tree/main/Docker) directory.<br>
-**Step-5** Run these following commands in the command prompt:<br>
+**Step-5** Run the following command in the command prompt:<br>
 ```python
  docker-compose up --build
 ```
-That's it you can see your website running at localhost.
+Now you can see your website running at localhost.
+
+<b>⭐ the Repository if you liked my work.</b>
